@@ -159,14 +159,14 @@ footer {
     border-radius: 90px;
 }
 
-span {
+a {
     color: var(--white);
 }
 
 
 /* Other hover/ active styling */
 h1:hover, h1:active,
-span:hover, span:active {
+a:hover, a:active {
     color: var(--cyan);
     cursor: pointer;
 }
