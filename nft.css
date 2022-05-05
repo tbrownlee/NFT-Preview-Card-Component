@@ -153,8 +153,8 @@ footer {
     width: 35px;
     height: 35px;
     margin-right: 17px;
-    margin-left: 1px;
-    margin-bottom: 1px;
+    margin-left:2px;
+    margin-bottom: 2px;
     border: 1px solid var(--white);
     border-radius: 90px;
 }
@@ -217,7 +217,7 @@ span:hover, span:active {
     }
 
     .footer-img {
-        width: 26px;
+        width: 25px;
         height: 25px;
         margin-right: 13px;
     }
